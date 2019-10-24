@@ -1,11 +1,11 @@
 ---
 users:
-  - name: user1
+  - name: bubba
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: joe
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
+  - name: jimmy
     aws_groups: "palmsprings, indio, sandiego"
-  - name: user4
-    aws_groups: "sirius"
+  - name: bob
+    aws_groups: "sirius, indio"
     
